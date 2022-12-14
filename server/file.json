@@ -1,0 +1,375 @@
+{
+  "seats": [
+    {
+      "available": false,
+      "seat": 1,
+      "reserdedDates": [
+        "3/01",
+        "27/12",
+        "6/01"
+      ],
+      "userInfo": [
+        {
+          "user": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "date": "3/01"
+        },
+        {
+          "user": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "date": "27/12"
+        },
+        {
+          "user": {
+            "name": "1",
+            "email": "2",
+            "phone": "3"
+          },
+          "date": "6/01"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "seat": 2,
+      "reserdedDates": [
+        "27/12"
+      ],
+      "userInfo": [
+        {
+          "user": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "date": "27/12"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "seat": 3,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 4,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 5,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 6,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 7,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 8,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 9,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 10,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 11,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 12,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 13,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 14,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 15,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 16,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 17,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 18,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 19,
+      "reserdedDates": [
+        "6/01",
+        "3/01"
+      ],
+      "userInfo": [
+        {
+          "user": {
+            "name": "1",
+            "email": "2",
+            "phone": "3"
+          },
+          "date": "6/01"
+        },
+        {
+          "user": {
+            "name": "1",
+            "email": "2",
+            "phone": "3"
+          },
+          "date": "3/01"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "seat": 20,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 21,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 22,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 23,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 24,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 25,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 26,
+      "reserdedDates": [
+        "3/01"
+      ],
+      "userInfo": [
+        {
+          "user": {
+            "name": "1",
+            "email": "2",
+            "phone": "3"
+          },
+          "date": "3/01"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "seat": 27,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 28,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 29,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 30,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 31,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 32,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 33,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 34,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 35,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 36,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 37,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 38,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 39,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 40,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 41,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 42,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 43,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 44,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 45,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 46,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 47,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 48,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 49,
+      "reserdedDates": [],
+      "userInfo": []
+    },
+    {
+      "available": true,
+      "seat": 50,
+      "reserdedDates": [],
+      "userInfo": []
+    }
+  ]
+}
